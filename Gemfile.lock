@@ -218,7 +218,7 @@ DEPENDENCIES
   pg
   puma (~> 3.11)
   rails (~> 5.2.2, >= 5.2.2.1)
-  sassc-rails (>= 2.1.0)
+  sassc-rails
   selenium-webdriver
   sqlite3!
   turbolinks (~> 5)
