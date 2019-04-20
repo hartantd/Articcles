@@ -25,6 +25,18 @@ $navbar-default-bg: midnightblue;
 	padding-left: 0;
 }
 
+.badge {
+	background-color: #CEF6F5;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	font-weight: bold;
+}
+
+.input_checkbox input {
+	width: auto !important;
+	
+}
+
 .jumbotron {
 	background-image: asset-url('rentals.jpg');
 	background-size: cover;
